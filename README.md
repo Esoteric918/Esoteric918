@@ -1,5 +1,8 @@
 ### Hi there 👋
+[Esoteric918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esoteric918)
 
+- 🌱 I’m currently learning ...
+  Building a custom API from scratch 
 <!--
 **Esoteric918/Esoteric918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
