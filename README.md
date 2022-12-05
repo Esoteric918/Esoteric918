@@ -3,7 +3,7 @@
 [![Esoteric918's GitHub stats](https://github-readme-stats.vercel.app/api?username=esoteric918)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning ...
-  Building a custom API from scratch 
+  Building a Flutter app with Firebase for the backend, Im making a Twitter-Clone
 <!--
 **Esoteric918/Esoteric918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
