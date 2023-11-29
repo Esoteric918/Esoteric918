@@ -1,6 +1,6 @@
 ### Hi there 👋
 [Esoteric918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esoteric918)
-[![Esoteric918's GitHub stats](https://github-readme-stats.vercel.app/api?username=esoteric918)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning ...
   Building a Flutter app with Firebase for the backend, Im making a Twitter-Clone
