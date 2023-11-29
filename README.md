@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Esoteric918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esoteric918)
+I Currently working as an intern with Atento Capital and Robbie.ai. Working as a Frontend Developer. 
 
 
 - 🌱 I’m currently learning ...
