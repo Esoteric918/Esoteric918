@@ -1,15 +1,15 @@
-### Hi there 👋
-I Currently working as an intern with Atento Capital and Robbie.ai. Working as a Frontend Developer. 
+### Hi there 👋-
 
+I’m currently working on ...
+I recently finished a 3 month internship with Robbie.AI an Atento Capital port-co. I worked with React/Redux and was able to work on building UI/UX for the notification history page of the app. Working on bouth the front and backend on this was a great learning opportunity. I am now turning my focus back to my own projects. I will be getting back into my SWL app. I have finished the blog section and now will be move to the data collection part of the app. With this app I hope to build something that will help Organizations that work with homeless people by gathering data on location types of supplies needed i.e. toiletries, sleeping bags, clothes.  
 
-- 🌱 I’m currently learning ...
-  Building a Flutter app with Firebase for the backend, Im making a Twitter-Clone
+  
 <!--
 **Esoteric918/Esoteric918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
